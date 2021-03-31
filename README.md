@@ -50,6 +50,7 @@ We investigated the correlations between the features trying to identify any lin
 
 ## MODELING APPROACH
 
+![](./img/pipeline.png)
  
 After cleaning and analyzing the data, the cleaned dataset is split into training and testing datasets. The training dataset is used for tuning and validation, while the testing dataset is held out for final evaluations.
 
