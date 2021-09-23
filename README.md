@@ -29,10 +29,10 @@ Customer relations are essential for businesses to keep up proactive relations a
 We applied the following process to achieve our results:
 
 * Data Selection
-* Preprocessing
-* Transformation
-* Analysis
-* Prediction
+* Preprocessing [00_cleaning](./00_cleaning_m.ipynb)
+* Transformation [00_cleaning](./00_cleaning_m.ipynb)
+* Analysis [02_analysis](./02_analysis_m.ipynb)
+* Prediction [03_models](./03_models_m.ipynb)
 
 ## DATA SOURCE
 
